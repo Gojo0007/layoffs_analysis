@@ -22,6 +22,10 @@
    ##PREVIEW
    
    ![in](https://user-images.githubusercontent.com/117715150/204275173-1b6842da-9db2-4eea-9ae2-aa3aead91040.png)
+   
+   ![fund](https://user-images.githubusercontent.com/117715150/204275507-b49faf0f-c898-46c8-9b03-21a9e2579e20.png)
+   
+   ![d](https://user-images.githubusercontent.com/117715150/204275541-c86bdd09-232d-41b2-818a-0ce27567c188.png)
      
  
   ## CONCLUSION
