@@ -18,6 +18,10 @@
      * How the stage of the company affected the layoff.
      
      For SQL Queries checkout the layoff_sql file.
+   
+   ##PREVIEW
+   
+   ![in](https://user-images.githubusercontent.com/117715150/204275173-1b6842da-9db2-4eea-9ae2-aa3aead91040.png)
      
  
   ## CONCLUSION
