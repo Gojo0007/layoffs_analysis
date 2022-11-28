@@ -20,7 +20,7 @@
      For SQL Queries checkout the layoff_sql file.
      
   ## Visualisations:
-     Check out my Tableau profile for visuals here: [visuals](https://public.tableau.com/app/profile/shubham.saini1159/viz/layoffvisuals/Dashboard1)
+     Check out my Tableau profile for visuals here: [visuals] (https://public.tableau.com/app/profile/shubham.saini1159/viz/layoffvisuals/Dashboard1)
   
   ## CONCLUSION
      *We see that consumer industry is most affected followed by transportation and retail respectively.
