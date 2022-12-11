@@ -1,5 +1,7 @@
 # layoffs_analysis
   Here we will see the layoffs by the companies all over the world from the last 2 years.
+  Check out my Tableau profile for visuals here: 
+   [VISUALS](https://public.tableau.com/app/profile/shubham.saini1159/viz/layoffvisuals/Dashboard1) 
   
   ## Creating a table:
      I created a table in pgadmin(postgresql), then i imported the csv file from kaggle dataset of layoffs.
@@ -38,6 +40,4 @@
      *We can see that the month of november has the maximum number of layoffs.
      *Through Visuals we can conclude that companies with more fund raised have less layoffs. 
      
-  ## Visualisations:
-   Check out my Tableau profile for visuals here: 
-   [VISUALS](https://public.tableau.com/app/profile/shubham.saini1159/viz/layoffvisuals/Dashboard1)   
+  
